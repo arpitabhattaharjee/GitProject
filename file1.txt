@@ -3,3 +3,5 @@ Hello World!!!
 Welcome to Git...
 
 to fix bug 1
+
+to fix bug2
