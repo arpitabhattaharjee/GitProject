@@ -8,5 +8,5 @@ change made by other member from remote server
 
 to fix bug2
 
-change by team member to test rebase
+change by team member to test rebase file3
 
